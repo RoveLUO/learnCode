@@ -1,0 +1,9 @@
+﻿  boss.cpp
+  employee.cpp
+  manager.cpp
+  workerManager.cpp
+C:\Code\gitCode\code-study\基于多态的职工管理系统\基于多态的职工管理系统\workerManager.cpp(415,25): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Code\gitCode\code-study\基于多态的职工管理系统\基于多态的职工管理系统\workerManager.cpp(433,24): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  职工管理系统.cpp
+  正在生成代码...
+  基于多态的职工管理系统.vcxproj -> C:\Code\gitCode\code-study\基于多态的职工管理系统\x64\Debug\基于多态的职工管理系统.exe
