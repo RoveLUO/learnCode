@@ -1,5 +1,5 @@
 #include <stdio.h>
-// test
+
 main()
 {
 	int fahr, celsius;
@@ -15,5 +15,3 @@ main()
 		fahr += step;
 	}
 }
-
-// test
