@@ -1,5 +1,5 @@
 #include <stdio.h>
-// test 
+// test vs
 main()
 {
 	int fahr, celsius;
