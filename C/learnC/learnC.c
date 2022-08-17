@@ -1,5 +1,5 @@
 #include <stdio.h>
-// test gitignore
+// test 
 main()
 {
 	int fahr, celsius;
