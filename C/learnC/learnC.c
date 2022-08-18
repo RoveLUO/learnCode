@@ -1,18 +1,9 @@
-//#include <stdio.h>
-//
-//main()
-//{
-//	int fahr;
-//	float celsius;
-//	int lower, upper, step;
-//	lower = 0;
-//	upper = 300;
-//	step = 20;
-//	fahr = lower;
-//	while (fahr <= upper)
-//	{
-//		celsius = 5 * (fahr - 32) / 9;
-//		printf("%3d\t%6.1f\n", fahr, celsius);
-//		fahr += step;
-//	}
-//}
+/*
+	Exercise 1-7. Write a program to print the value of EOF. 
+*/
+#include <stdio.h>
+
+int main()
+{
+		printf("EOF = %d\n", EOF);
+}
