@@ -1,6 +1,9 @@
+///*
+//	Exercise 1-3. Modify the temperature conversion program to print a heading above the table. 
+//*/
 //#include <stdio.h>
 //
-//main()
+//main() 
 //{
 //	int fahr;
 //	float celsius;
@@ -9,6 +12,7 @@
 //	upper = 300;
 //	step = 20;
 //	fahr = lower;
+//	printf("Fahrenheit Temperatures -> Centigrade\n");
 //	while (fahr <= upper)
 //	{
 //		celsius = 5 * (fahr - 32) / 9;
