@@ -1,12 +1,15 @@
-/*
-	Exercise 1-10. Write a program to copy its input to its output, replacing each tab by \t, each 
-	backspace by \b, and each backslash by \\. This makes tabs and backspaces visible in an 
-	unambiguous way. 
+﻿/*
+	Exercise 1-13. Write a program to print a histogram of the lengths of words in its input. It is 
+	easy to draw the histogram with the bars horizontal; a vertical orientation is more challenging. 
 */
 
 #include <stdio.h>
 
-int main()
+main()
 {
-	
+	int c;
+	while ((c = getchar()) != EOF)
+	{
+
+	}
 }
