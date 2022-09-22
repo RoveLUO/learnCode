@@ -10,4 +10,4 @@ Creating a new branch is quick and simple.
 add merge
 git stash
 Stashed changes
-test branch
+new test branch
